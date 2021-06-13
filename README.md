@@ -12,7 +12,8 @@ The present Work sets a basis for future research, showing the possibilities of 
 
 ## Results
 
-![FMT_results](https://user-images.githubusercontent.com/57588309/121816776-cd2a1e80-cc7d-11eb-9aa6-a8f595597faf.png)
+![TFM-graphic-material](https://user-images.githubusercontent.com/57588309/121818976-ed140f00-cc8a-11eb-82cc-9660716bbc6d.jpg)
+
 
 An example of how this CycleGAN could be implemented could be bellow
 
