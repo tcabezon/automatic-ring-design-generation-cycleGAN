@@ -21,7 +21,7 @@ An example of how this CycleGAN could be implemented could be bellow
 
 ## Usage
 
-The code to train and test the CycleGAN can be found on the [code_googleColabn.ipynb](./code_googleColabn.ipynb). 
+The code to train and test the CycleGAN can be found on the [FMT_code_GoogleColab.ipynb](./FMT_code_GoogleColab.ipynb). If you want to train a CycleGAN from scratch you can upload your database and use the train code. If you want to use and already trained model, you can use the test code.
 
 
 
