@@ -15,7 +15,7 @@ The present Work sets a basis for future research, showing the possibilities of 
 ![TFM-graphic-material](https://user-images.githubusercontent.com/57588309/121818976-ed140f00-cc8a-11eb-82cc-9660716bbc6d.jpg)
 
 
-An example of how this CycleGAN could be implemented could be bellow
+An example of how this CycleGAN could be implemented is bellow
 
 ![complete_withRenders](https://user-images.githubusercontent.com/57588309/121816793-ecc14700-cc7d-11eb-8f7c-bfb289562949.gif)
 
